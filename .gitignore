@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+*.o
+*.out
+*.exe
+
+# IDE settings
+.vscode/
+.idea/
+*.user
+
+# CMake temporary files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake

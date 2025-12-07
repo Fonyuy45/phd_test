@@ -10,6 +10,6 @@ add_executable(
 )
 target_link_libraries(
     ${PROJECT_NAME}
-    PRIVATE ${cm_interfaces_TARGETS}
+   # PRIVATE ${cm_interfaces_TARGETS}
             Eigen3::Eigen
 )

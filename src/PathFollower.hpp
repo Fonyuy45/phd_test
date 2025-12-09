@@ -57,10 +57,10 @@ public:
 
 
 private:
-    // Path and system parameters
-    Path path_;
-    double maxWheelSpeed_;        // m/s (omniwheel surface speed)
-    Eigen::Vector2d parcelSize_;  // [length, width] in meters
+    // Path and system parameters (immutable after construction)
+    const Path path_;
+    const double maxWheelSpeed_;        // m/s (omniwheel maximum surface speed)
+    const Eigen::Vector2d parcelSize_;  // [length, width] in meters
     
     static constexpr double MAX_ANGULAR_SPEED = 1.5;  ///< Max angular velocity (rad/s)
     

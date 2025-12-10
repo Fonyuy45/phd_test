@@ -132,8 +132,7 @@ From interview materials: 2×2m objects require significant rotation.
 **Rotation-Translation Coupling:**
 When both translation and rotation occur simultaneously (as in the S-curve 
 section of the test path), the corner velocity constraint becomes the 
-dominant limiting factor. This is exactly the challenge mentioned in the 
-interview preparation materials regarding large objects.
+dominant limiting factor. This is the challenge mentioned regarding large objects.
 
 ## Testing & Validation
 
@@ -160,7 +159,7 @@ interview preparation materials regarding large objects.
 
 The current implementation prioritizes velocity constraints as explicitly 
 required by the test specification. The following enhancements would make 
-this production-ready for the celluveyor system:
+this ready for the celluveyor system:
 
 ### 1. Acceleration Limiting
 Current implementation focuses on velocity limits. Adding acceleration 

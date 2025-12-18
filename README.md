@@ -231,7 +231,7 @@ December 03 2025
 
 2. **Lynch, K. M., & Park, F. C. (2017).** *Modern Robotics: Mechanics, Planning, and Control*. Cambridge University Press. (Chapter 3: Rigid-Body Motions).
 
-3. **Cellumation GmbH.** *PhD Position Coding Test: Technical Specifications and System Constraints* (Received December 2024).
+3. **Cellumation GmbH.** *Coding Test: Technical Specifications and System Constraints* (Received December 2025).
 
 4. **Guennebaud, G., Jacob, B., et al.** *Eigen v3: A C++ Template Library for Linear Algebra*. http://eigen.tuxfamily.org
 
